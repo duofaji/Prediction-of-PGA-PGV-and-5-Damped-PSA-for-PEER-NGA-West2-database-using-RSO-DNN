@@ -1,0 +1,1 @@
+# Prediction-of-PGA-PGV-and-5-Damped-PSA-for-PEER-NGA-West2-database-using-RSO-DNN
